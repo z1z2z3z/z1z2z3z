@@ -313,3 +313,7 @@ $ npm i
 删除container  docker rm -f <container id>  ///在容器里运行
 ```
 
+```
+git 本地与远程 仓库名字一样关联  git(mian)  git branch -m master main
+```
+
